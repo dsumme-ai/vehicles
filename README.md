@@ -33,7 +33,8 @@ Top 20 Postive positive correlated features with Price
 ![Screen Shot 2024-09-16 at 4 44 27 PM](https://github.com/user-attachments/assets/82df1b13-8dbc-461d-bc2a-bf49a1eb0a85)
 
 All features with Price
-![Screen Shot 2024-09-16 at 3 55 44 PM](https://github.com/user-attachments/assets/8640fd1b-63e0-42a6-ae93-a64a97213d11)
+![Screen Shot 2024-09-16 at 4 46 33 PM](https://github.com/user-attachments/assets/12384871-0504-436b-9faf-638a9c5f1edc)
+
 
 # Model Performance
 
@@ -50,7 +51,7 @@ Model vs Actual data
 # Final Recommendations for the Dealership:
 * Select inventory that consumers value the most, such as low mileage and recent manufacturing year. Based on feature importance and correlation analysis, these factors heavily influence price.
 
-* Focus inventory on vehicles that have higher predicted prices (e.g., electric or hybrid cars from well-known manufacturers like Tesla).
+* Focus inventory on vehicles that have higher predicted prices (e.g.,  Pickups, Hybrid cars  and electric from well-known manufacturers like Tesla).
 
 * Be cautious about overpricing older vehicles or those with higher mileage, as they have a negative impact on resale value.
 
