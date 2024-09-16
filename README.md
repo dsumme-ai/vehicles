@@ -29,7 +29,8 @@ Low or No Correlation:
 Many features have low correlation values (close to 0), indicating that they are either independent or have very weak relationships with each other. For example, features like fuel_electric and type_sedan seem to have very little correlation.
 
 Top 20 Postive positive correlated features with Price
-![Screen Shot 2024-09-16 at 3 51 46 PM](https://github.com/user-attachments/assets/8b43a08f-25e0-462f-960a-4e330e051150)
+
+![Screen Shot 2024-09-16 at 4 44 27 PM](https://github.com/user-attachments/assets/82df1b13-8dbc-461d-bc2a-bf49a1eb0a85)
 
 All features with Price
 ![Screen Shot 2024-09-16 at 3 55 44 PM](https://github.com/user-attachments/assets/8640fd1b-63e0-42a6-ae93-a64a97213d11)
